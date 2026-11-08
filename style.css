@@ -1,4 +1,9 @@
-
+header {
+    color : rgb(255, 94, 0);
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 2px;
+}
 nav {
     background-color: #333;
     color: red;
@@ -39,6 +44,15 @@ div img {
     object-fit: cover;
 }
 .p {
-    text-align: center;
+    text-align: left;
     margin: 0;
+    color: orange;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 2px;
+    text-decoration-style: wavy;
+}
+img {
+    border: 2px solid red;
+    border-radius: 10px;
 }
